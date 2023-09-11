@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mareline</h1>
-<h3 align="center">A passionate undergraduate student from Florida International University.</h3>
+<h3 align="center">An undergraduate student from Florida International University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mareline&label=Profile%20views&color=0e75b6&style=flat" alt="mareline" /> </p>
 
 - 🌱 i'm currently learning **React**
 
-- 📫 How to reach me **LinkedIn**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/mareline/](https://www.linkedin.com/in/mareline/)
+- 📫 How to reach me **LinkedIn** [https://www.linkedin.com/in/mareline/](https://www.linkedin.com/in/mareline/)
 
 - ⚡ Fun fact **I have two cute cats so sometimes you will see them in my projects.**
 
