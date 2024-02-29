@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Mareline</h1>
-<h3 align="center">An undergraduate student from Florida International University.</h3>
+# Hello, I'm Mareline Ramirez 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mareline&label=Profile%20views&color=0e75b6&style=flat" alt="mareline" /> </p>
+## About Me
+🎓 I'm an undergraduate student at Florida International University, majoring in Computer Science with a graduation date in December 2024.  
+🔭 I'm passionate about leveraging technology to solve real-world problems and making an impact within the tech community.  
+🌱 Currently, I'm deepening my knowledge in Python, Java, and Node.js
 
-- 🌱 i'm currently learning **React**
 
-- 📫 How to reach me **LinkedIn** [https://www.linkedin.com/in/mareline/](https://www.linkedin.com/in/mareline/)
+## My Work
+- **Tech Conference Workshops**: Led workshops focusing on tech conference preparation, HTML/CSS, and building personal brands.  
+- **Educational Initiatives**: Developed training guides for event planning, sponsorship, marketing, and logistics, targeting inclusivity and diversity in tech.  
+- **Community Engagement**: Organized panels and workshops aimed at empowering women in tech, fostering a supportive community.  
 
-- ⚡ Fun fact **I have two cute cats so sometimes you will see them in my projects.**
+## Skills
+- **Languages**: Python, Java, JavaScript
+- **Frameworks/Libraries**: React, Flask, FastAPI, ThreeJS, TailwindCSS, Framer Motion
+- **Tools**: Git, Docker, VS Code, Postman
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Connect With Me
+- LinkedIn: [linkedin.com/in/mareline](https://linkedin.com/in/mareline)
+- GitHub: [github.com/mareline](https://github.com/mareline)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mareline&" alt="mareline" /></p>
+Feel free to explore my repositories and reach out if you're interested in collaborating on a project or just want to say hi!
