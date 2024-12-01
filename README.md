@@ -3,7 +3,7 @@
 ## About Me
 🎓 I'm an undergraduate student at Florida International University, majoring in Computer Science with a graduation date in December 2024.  
 🔭 I'm passionate about leveraging technology to solve real-world problems and making an impact within the tech community.  
-🌱 Currently, I'm deepening my knowledge in Python, Java, and Node.js
+
 
 
 ## My Work
