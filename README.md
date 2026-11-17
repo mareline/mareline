@@ -1,20 +1,22 @@
 # Hello, I'm Mareline Ramirez 👋
 
 ## About Me
-🎓 I'm an undergraduate student at Florida International University, majoring in Computer Science with a graduation date in December 2024.  
-🔭 I'm passionate about leveraging technology to solve real-world problems and making an impact within the tech community.  
+💼 Product Owner at Bank of America, enabling Azure AI services for internal teams.
+🎓 First-year MBA student at Florida International University (Business Data Analytics, May 2028). BA in Computer Science, December 2024.
+🔭 I like finding patterns, documenting them, checking the data, and turning them into repeatable processes, especially in games and AI.
 
-
-
-## My Work
-- **Tech Conference Workshops**: Led workshops focusing on tech conference preparation, HTML/CSS, and building personal brands.  
-- **Educational Initiatives**: Developed training guides for event planning, sponsorship, marketing, and logistics, targeting inclusivity and diversity in tech.  
-- **Community Engagement**: Organized panels and workshops aimed at empowering women in tech, fostering a supportive community.  
+## What I Do
+- **Product delivery:** I coordinate releases across multiple teams and build standard templates and checklists for repeatable work.
+- **Data quality:** I build Jira checks and dashboards, and I validate data before trusting it.
+- **Community:** I help lead a Women in Tech conference and mentor students, with workshops on tech conference preparation, HTML/CSS and personal branding.
 
 ## Skills
 - **Languages**: Python, Java, JavaScript
 - **Frameworks/Libraries**: React, Flask, FastAPI, ThreeJS, TailwindCSS, Framer Motion
 - **Tools**: Git, Docker, VS Code, Postman
+
+## Currently Learning
+Player engagement metrics (retention, CCU), SQL for analysis, and responsible AI practices.
 
 ## Connect With Me
 - LinkedIn: [linkedin.com/in/mareline](https://linkedin.com/in/mareline)
