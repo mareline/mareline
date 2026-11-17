@@ -3,7 +3,7 @@
 ## About Me
 💼 Product Owner at Bank of America, enabling Azure AI services for internal teams.
 🎓 First-year MBA student at Florida International University (Business Data Analytics, May 2028). BA in Computer Science, December 2024.
-🔭 I like finding patterns, documenting them, checking the data, and turning them into repeatable processes, especially in games and AI.
+🔭 I like finding patterns, documenting them, checking the data, and turning them into repeatable processes, especially in games and AI
 
 ## What I Do
 - **Product delivery:** I coordinate releases across multiple teams and build standard templates and checklists for repeatable work.
